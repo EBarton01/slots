@@ -1,0 +1,28 @@
+row 1 = user name + password #this is filler lol for some reason i need text here for the login loop stuff, dont mind me for being so long
+row 2 = Coins
+row 2 = spins
+
+['dnw', 'dnw']
+90
+1
+['aa', 'aa']
+105
+16
+['er', 'ic']
+569
+6
+['pizza', 'man']
+105
+1
+['phoob', 'tes']
+485
+95
+['mingus', '123']
+630
+13
+['the lucky', '1']
+59990
+1
+['hi', 'hi']
+100
+0
